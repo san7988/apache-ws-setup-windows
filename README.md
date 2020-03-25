@@ -86,5 +86,5 @@ In this tutorial, we'll set up a python app on battle tested apache webserver. T
 1. Make sure the user, under which Apache is running, has permissions over application directory.
 2. If the server doesn't starts from service manager, you can also run `httpd.exe` under APACHE_HOME/bin, directly from command line. It prints useful log messages in case of error.
 3. Apache logs under APACHE_HOME/logs also can be used for debugging.
-4. Can refer (this)[https://github.com/GrahamDumpleton/mod_wsgi#connecting-into-apache-installation] for more details on mod_wsgi.
+4. Can refer [this](https://github.com/GrahamDumpleton/mod_wsgi#connecting-into-apache-installation) for more details on mod_wsgi.
 
